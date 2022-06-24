@@ -1,0 +1,15 @@
+#############################
+#############################
+## Prettier Linter Rules   ##
+##    Mr Coxall            ##
+#############################
+#############################
+
+{
+  "trailingComma": "es5",
+  "semi": false,
+  "singleQuote": false
+}
+© 2022 GitHub, Inc.
+Terms
+Privacy
